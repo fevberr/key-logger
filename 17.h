@@ -1,0 +1,2 @@
+#pragma once
+LRESULT CALLBACK 17(int, WPARAM, LPARAM);
